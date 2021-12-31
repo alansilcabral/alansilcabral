@@ -18,6 +18,6 @@
   
    ![Snake animation](https://github.com/alansilcabral/alansilcabral/blob/output/github-contribution-grid-snake.svg)
   
- ##
+
   
 
