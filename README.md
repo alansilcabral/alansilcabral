@@ -1,6 +1,4 @@
 ## Saudações! Eu sou o Alan Cabral
-
-
 <div align="center">
   <a href="https://github.com/alansilcabral">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=alansilcabral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
